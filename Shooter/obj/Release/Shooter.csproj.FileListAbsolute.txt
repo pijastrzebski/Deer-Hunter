@@ -1,0 +1,15 @@
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\bin\Release\Shooter.exe.config
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\obj\Release\Interop.WMPLib.dll
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\obj\Release\Shooter.csproj.ResolveComReference.cache
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\bin\Release\Shooter.exe.manifest
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\bin\Release\Shooter.application
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\bin\Release\Shooter.exe
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\bin\Release\Shooter.pdb
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\obj\Release\Shooter.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\obj\Release\Shooter.ZombieDeer.resources
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\obj\Release\Shooter.Properties.Resources.resources
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\obj\Release\Shooter.csproj.GenerateResource.Cache
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\obj\Release\Shooter.exe.manifest
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\obj\Release\Shooter.application
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\obj\Release\Shooter.exe
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Shooter\Shooter\obj\Release\Shooter.pdb
